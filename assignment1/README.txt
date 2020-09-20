@@ -8,7 +8,7 @@ This code is for assignment 1 of machine learning course. It creates plots and r
 Get the code
 ------------
 
-Fetch the code from the private Gatech OMSCS github repo: https://github.gatech.edu/astathopoulos3/CS7641-OMSCS-2020fall.git
+Fetch the code from my public github repo: https://github.com/stathopoan/CS7641-OMSCS.git
 
 Prerequisites
 -------------
