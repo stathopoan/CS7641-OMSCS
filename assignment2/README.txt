@@ -5,6 +5,12 @@ Description
 ------------
 This code is for assignment 2 of machine learning course. It creates plots and results for the report.
 
+
+Get the code
+------------
+
+Fetch the code from my public github repo: https://github.com/stathopoan/CS7641-OMSCS.git
+
 Prerequisites
 -------------
 Please use Anaconda for easy creation of environment.
